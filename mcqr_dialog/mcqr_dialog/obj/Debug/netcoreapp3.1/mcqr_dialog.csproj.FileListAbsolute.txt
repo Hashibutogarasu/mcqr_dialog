@@ -1,0 +1,16 @@
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\mcqr_dialog.csproj.AssemblyReference.cache
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\mcqr_dialog.csproj.GenerateResource.cache
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\mcqr_dialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\mcqr_dialog.AssemblyInfoInputs.cache
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\mcqr_dialog.AssemblyInfo.cs
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\mcqr_dialog.csproj.CoreCompileInputs.cache
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\mcqr_dialog.genruntimeconfig.cache
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\mcqr_dialog.dialog_yesno.resources
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\bin\Debug\netcoreapp3.1\minecraft_qr_setting_dialog.exe
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\bin\Debug\netcoreapp3.1\minecraft_qr_setting_dialog.deps.json
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\bin\Debug\netcoreapp3.1\minecraft_qr_setting_dialog.runtimeconfig.json
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\bin\Debug\netcoreapp3.1\minecraft_qr_setting_dialog.runtimeconfig.dev.json
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\bin\Debug\netcoreapp3.1\minecraft_qr_setting_dialog.dll
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\bin\Debug\netcoreapp3.1\minecraft_qr_setting_dialog.pdb
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\minecraft_qr_setting_dialog.dll
+C:\Users\crow\source\repos\mcqr_dialog\mcqr_dialog\obj\Debug\netcoreapp3.1\minecraft_qr_setting_dialog.pdb
